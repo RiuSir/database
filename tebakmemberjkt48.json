@@ -146,6 +146,22 @@
   {
     "data": {
       "status": 200,
+      "gen": 6,
+      "img": "https://files.catbox.moe/aavdmo.jpg",
+      "jawaban": "Gita"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 3,
+      "img": "https://files.catbox.moe/a8bvud.jpg",
+      "jawaban": "Gracia"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
       "gen": 12,
       "img": "https://telegra.ph/file/d95bd099879177c439079.jpg",
       "jawaban": "Erine"
