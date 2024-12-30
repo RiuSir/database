@@ -162,6 +162,38 @@
   {
     "data": {
       "status": 200,
+      "gen": 7,
+      "img": "https://files.catbox.moe/g7lqjd.jpg",
+      "jawaban": "Jessi"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 7,
+      "img": "https://files.catbox.moe/z4b7d3.jpg",
+      "jawaban": "Olla"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 7,
+      "img": "https://files.catbox.moe/j6re0j.jpg",
+      "jawaban": "Eli"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 7,
+      "img": "https://files.catbox.moe/lb3x9p.jpg",
+      "jawaban": "Muthe"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
       "gen": 12,
       "img": "https://telegra.ph/file/d95bd099879177c439079.jpg",
       "jawaban": "Erine"
